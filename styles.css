@@ -45,43 +45,43 @@
 
 }
 
-.bottom-frame1 {
+.bottom-frame {
   margin: -3em;
-  margin-top: 8em;
+  margin-top: 7.9em;
   width: 21.001em;
   border-radius: .5em;
 }
 
-.bottom-frame {
+/* .bottom-frame {
   margin: -3em;
   margin-top: 15em;
   width: 21.001em;
   border-radius: .5em;
-}
+} */
 
-.button1 {
+.button {
   position: relative;
   width: 4em;
   margin: -2em;
   top: -25.5em;
 }
 
-.button {
+/* .button {
   position: relative;
   width: 4em;
   margin: -2em;
   top: -26.5em;
-}
+} */
 
-.top-background {
+/* .top-background {
   position: relative;
   margin: -3em;
   top: -26.5em;
   width: 21.001em;
   border-radius: .5em;
-}
+} */
 
-.top-background1 {
+.top-background {
   position: relative;
   margin: -3em;
   top: -.01em;
