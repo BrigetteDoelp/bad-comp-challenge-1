@@ -103,7 +103,16 @@
   margin: 5em;
   bottom: 33.3em;
   left: 2.99em;
-
-
-
+}
+.dragon3 {
+  position: relative;
+  width: 20em;
+  bottom: 28.3em;
+  left: -3em;
+}
+.dragon4 {
+  position: relative;
+  width: 20em;
+  left: -2em;
+  bottom: 28em;
 }
