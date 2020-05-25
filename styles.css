@@ -51,3 +51,11 @@
   width: 21.001em;
   border-radius: .5em;
 }
+
+.top-background {
+  position: relative;
+  margin: -3em;
+  top: -25.4em;
+  width: 21.001em;
+  border-radius: .5em;
+}
