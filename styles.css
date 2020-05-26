@@ -1,9 +1,3 @@
-/* *,
-*:after,
-*:before {
-	box-sizing: border-box;
-} */
-
 
 
 .header-area {
@@ -20,19 +14,11 @@
   font-family: sans-serif;
 }
 
-/* .box-area {
-  display: grid;
-  grid-gap: 1em;
-  grid-template-columns: 25% 25% 25% 25%;
-  justify-items: center;
-} */
-
 .box-area {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   justify-content: space-around;
-/*   flex: 1 1 25%;  */
 }
 
 .box {
@@ -46,19 +32,13 @@
 
 }
 
-.bottom-frame {
+.top-background {
+  position: relative;
   margin: -3em;
-  margin-top: 7.9em;
+  top: -.01em;
   width: 21.001em;
   border-radius: .5em;
 }
-
-/* .bottom-frame {
-  margin: -3em;
-  margin-top: 15em;
-  width: 21.001em;
-  border-radius: .5em;
-} */
 
 .button {
   position: relative;
@@ -67,25 +47,9 @@
   top: -25.5em;
 }
 
-/* .button {
-  position: relative;
-  width: 4em;
-  margin: -2em;
-  top: -26.5em;
-} */
-
-/* .top-background {
-  position: relative;
+.bottom-frame {
   margin: -3em;
-  top: -26.5em;
-  width: 21.001em;
-  border-radius: .5em;
-} */
-
-.top-background {
-  position: relative;
-  margin: -3em;
-  top: -.01em;
+  margin-top: 7.9em;
   width: 21.001em;
   border-radius: .5em;
 }
@@ -98,6 +62,20 @@
   width: 22em;
 }
 
+.card-text1 {
+  position: relative;
+  text-align: center;
+  bottom: 11em;
+  right: 2em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
+}
+
 .dragon2 {
   position: relative;
   width: 9.9em;
@@ -105,23 +83,82 @@
   bottom: 33.3em;
   left: 2.99em;
 }
+
+.card-text2 {
+  position: relative;
+  text-align: center;
+  bottom: 35.7em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
+}
+
 .dragon3 {
   position: relative;
   width: 20em;
   bottom: 28.3em;
   left: -3em;
 }
+
+.card-text3 {
+  position: relative;
+  text-align: center;
+  bottom: 37.2em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
+}
+
 .dragon4 {
   position: relative;
   width: 20em;
   left: -2.5em;
   bottom: 26em;
 }
+
+.card-text4 {
+  position: relative;
+  text-align: center;
+  bottom: 28.8em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
+}
+
 .dragon5 {
   position: relative;
   width: 18em;
   left: 0em;
   bottom: 28em;
+}
+
+.card-text5 {
+  position: relative;
+  text-align: center;
+  bottom: 28.8em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
 }
 
 .dragon6 {
