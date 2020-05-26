@@ -14,4 +14,4 @@ Assets were pulled from the manga "Drifting Dragons" and edited for the purposes
 
 ##Outcome
 I decided to make a kind of mini field guide using the dragons of the world of the manga. Laid out in convenient card style, they each have their own little blurb under their illustration.
-![alt text](https://imgur.com/cpb383t.gif)
+![alt text][Imgur](https://imgur.com/cpb383t.gif)
