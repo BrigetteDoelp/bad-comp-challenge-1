@@ -2,10 +2,9 @@ body {
   background: #dee3e8;
 }
 
+
+
 .header-area {
-  /* border: 2px solid grey; */
-  /* padding: 2em;
-  margin: -1em; */
   background: #dee3e8;
 }
 
@@ -16,6 +15,8 @@ body {
   border: 2px solid #457b9d;
   border-radius: .5em;
 }
+
+
 
 .noragoth {
   position: absolute;
@@ -74,6 +75,13 @@ body {
   margin-top: 7.9em;
   width: 21.001em;
   border-radius: .5em;
+}
+
+.bottom-border {
+  position: absolute;
+  width: 21em;
+  margin: -3em;
+  bottom: 1em;
 }
 
 .dragon1 {
@@ -172,7 +180,7 @@ body {
 .card-text5 {
   position: relative;
   text-align: center;
-  bottom: 28.8em;
+  bottom: 26.8em;
   right: 2.1em;
   background: rgba(153, 153, 153, .8);
   border-radius: .5em;
