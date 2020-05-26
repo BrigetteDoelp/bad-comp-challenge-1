@@ -39,6 +39,7 @@
  width: 15em;
  height: 25em;
  border: 2px solid #457b9d;
+ background: #dee3e8;
  padding: 3em;
  margin: .5em;
  border-radius: .5em;
@@ -113,8 +114,8 @@
 .dragon4 {
   position: relative;
   width: 20em;
-  left: -2em;
-  bottom: 28em;
+  left: -2.5em;
+  bottom: 26em;
 }
 .dragon5 {
   position: relative;
@@ -128,4 +129,10 @@
   width: 20em;
   left: -2em;
   bottom: 27em;
+}
+.dragon7 {
+  position: relative;
+  width: 16em;
+  bottom: 28em;
+  left: -3em;
 }
