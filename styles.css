@@ -130,9 +130,16 @@
   left: -2em;
   bottom: 27em;
 }
+
 .dragon7 {
   position: relative;
   width: 16em;
   bottom: 28em;
   left: -3em;
+}
+
+.dragon8 {
+  position: relative;
+  width: 18em;
+  bottom: 28.1em;
 }
