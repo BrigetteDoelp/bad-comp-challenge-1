@@ -20,13 +20,16 @@ body {
 
 .noragoth {
   position: absolute;
-  width: 20em;
+  width: 20%;
+  height: 25%;
   right: 2em;
   top: 2em;
 
 }
 
 .box-area-header {
+  display: flex;
+  flex-wrap: wrap;
   position: relative;
   padding: 2.5em;
   margin: -3em;
