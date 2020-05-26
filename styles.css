@@ -1,17 +1,39 @@
-
+body {
+  background: #dee3e8;
+}
 
 .header-area {
-  border: 2px solid grey;
-  padding: 2em;
-  margin: -1em;
-  background: grey;
+  /* border: 2px solid grey; */
+  /* padding: 2em;
+  margin: -1em; */
+  background: #dee3e8;
+}
+
+.header-clouds {
+  width: 100%;
+  height: 25%;
+  bottom: -20em;
+  border: 2px solid #457b9d;
+  border-radius: .5em;
+}
+
+.noragoth {
+  position: absolute;
+  width: 20em;
+  right: 2em;
+  top: 2em;
+
 }
 
 .box-area-header {
-  padding: 2em;
-  margin: -1em;
-  font-size: 20px;
-  font-family: sans-serif;
+  position: relative;
+  padding: 2.5em;
+  margin: -3em;
+  left: 1em;
+  bottom: -.5em;
+  font-size: 30px;
+  font-family: Sedgwick Ave;
+  color: gray;
 }
 
 .box-area {
@@ -168,6 +190,20 @@
   bottom: 27em;
 }
 
+.card-text6 {
+  position: relative;
+  text-align: center;
+  bottom: 25em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
+}
+
 .dragon7 {
   position: relative;
   width: 16em;
@@ -175,8 +211,36 @@
   left: -3em;
 }
 
+.card-text7 {
+  position: relative;
+  text-align: center;
+  bottom: 29.6em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
+}
+
 .dragon8 {
   position: relative;
   width: 18em;
   bottom: 28.1em;
+}
+
+.card-text8 {
+  position: relative;
+  text-align: center;
+  bottom: 30.7em;
+  right: 2.1em;
+  background: rgba(153, 153, 153, .8);
+  border-radius: .5em;
+  width: 20em;
+  padding: .01%;
+  color: white;
+  font-family: Sedgwick Ave;
+  font-size: 15px;
 }
