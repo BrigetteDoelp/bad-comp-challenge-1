@@ -77,12 +77,7 @@ body {
   border-radius: .5em;
 }
 
-.bottom-border {
-  position: absolute;
-  width: 21em;
-  margin: -3em;
-  bottom: 1em;
-}
+
 
 .dragon1 {
   position: relative;
